@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check price in the basket</description>
+   <name>Cart Price Check</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0991168f-a250-4097-b250-c4ddc561973e</testCaseGuid>
+</TestCaseEntity>

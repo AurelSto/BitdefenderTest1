@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Change quantity from 1 to 2, then remove item</description>
+   <name>Cart Quantity Change</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a986faf2-0b94-4029-ae61-ced81d6f01cf</testCaseGuid>
+</TestCaseEntity>
